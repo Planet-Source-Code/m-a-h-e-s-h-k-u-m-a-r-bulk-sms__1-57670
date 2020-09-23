@@ -1,0 +1,338 @@
+AT+CMGL="ALL"
+
++CMGL: 1,"REC READ","8888",,"04/05/23,11:53:22+00"
+A mobile is like a woman- talks non-stop, costs a fortune, disturbs when you are busy and when you need it urgently-there is no service!
++CMGL: 2,"REC READ","646",,"04/05/23,12:21:58+00"
+Laugh Laugh till U drop! Now listen to NON STOP comedy on your mobile and also dedicate jokes to your friends to cheer them UP!! DIAL 646 now and SPEAK COMEDY
++CMGL: 3,"REC READ","8888",,"04/05/23,12:21:59+00"
+Masculine pronouns: he, his and him, imagine the feminine, she, shis and shim 
+sms BANGOES for Mangoes 
++CMGL: 4,"REC READ","646",,"04/05/23,12:22:16+00"
+Laugh Laugh till U drop! Now listen to NON STOP comedy on your mobile and also dedicate jokes to your friends to cheer them UP!! DIAL 646 now and SPEAK COMEDY
++CMGL: 5,"REC READ","8888",,"04/05/23,12:22:16+00"
+Q: What s a birth control pill? A: The other thing a woman can put in her mouth to prevent pregnancy.
++CMGL: 6,"REC READ","646",,"04/05/23,12:22:32+00"
+Laugh Laugh till U drop! Now listen to NON STOP comedy on your mobile and also dedicate jokes to your friends to cheer them UP!! DIAL 646 now and SPEAK COMEDY
++CMGL: 7,"REC READ","8888",,"04/05/23,12:22:33+00"
+Why do farts smell? For the benefit of the deaf
++CMGL: 8,"REC READ","8888",,"04/05/23,12:22:59+00"
+How did the grubby man propose to his girlfriend? He left a ring round her bathtub!
++CMGL: 9,"REC READ","646",,"04/05/23,12:22:59+00"
+Laugh Laugh till U drop! Now listen to NON STOP comedy on your mobile and also dedicate jokes to your friends to cheer them UP!! DIAL 646 now and SPEAK COMEDY
++CMGL: 10,"REC READ","HOROSCOP",,"04/05/23,12:38:42+00"
+Dial 556 aur Jaaniye apni Kismat ka Haal. Aaj kya kehte hain aapke badalte Sitare, Kaun sa Number ya Rang hai aapke liye Lucky. Jaanne ke liye dial kare 556.
++CMGL: 11,"REC UNREAD","555",,"04/05/25,15:11:25+00"
+Ç@o‰  @Top Tones
+R72127-Main hoo naa
+R01857-Time to disco
+R50078-Anjaana Anjaane
+R50080-Marhabaa
+R50022-Sarki chunariya
+R72128-Gori Gori
+R72131-Tum se milke
+R50
++CMGL: 12,"REC UNREAD","555",,"04/05/25,15:11:25+00"
+Ç@o‰ ≠@011-Nachley
+R50065-chall hatt
+R01972-Sajna Ve Sajna
+For Nokia & Samsung send TONE <ref_no> to 555.For others,in <ref_no> send E instead of R,e.g. E72127
++CMGL: 14,"STO UNSENT","",,
+Giggiggggggggggg 
++CMGL: 16,"STO UNSENT","",,
+Uttttttttttt 
++CMGL: 17,"STO UNSENT","5555555",,
+Slodwtpga 
++CMGL: 18,"STO UNSENT","508888665555555",,
+Sprppppppp 
++CMGL: 19,"REC READ","+8243",,"03/12/12,12:21:50+00"
+OÇäÍ$Í$@ù?$$@@@@@@@
++CMGL: 20,"REC READ","+8243",,"03/12/12,12:21:50+00"
+OÇäÍ$Í$@ù?$ú0ätA
+@Hèú@ @@≠   @@<Ü@î8x8@@>Ü@Å8>8@@??@Ö8?8@@??@ç8ç8@@39$Ü8ù8@@3sÜÖ?Ö8@@9qÜÖ?Ö8@@1c·O8ù8@@8c<ç8ù8@@0a=Å8ù8@@8c?î8ù8@@0C?p8ù8@@@
+
+OK
+
+AT+CMGL="ALL"
+
++CMGL: 1,"REC READ","8888",,"04/05/23,11:53:22+00"
+A mobile is like a woman- talks non-stop, costs a fortune, disturbs when you are busy and when you need it urgently-there is no service!
++CMGL: 2,"REC READ","646",,"04/05/23,12:21:58+00"
+Laugh Laugh till U drop! Now listen to NON STOP comedy on your mobile and also dedicate jokes to your friends to cheer them UP!! DIAL 646 now and SPEAK COMEDY
++CMGL: 3,"REC READ","8888",,"04/05/23,12:21:59+00"
+Masculine pronouns: he, his and him, imagine the feminine, she, shis and shim 
+sms BANGOES for Mangoes 
++CMGL: 4,"REC READ","646",,"04/05/23,12:22:16+00"
+Laugh Laugh till U drop! Now listen to NON STOP comedy on your mobile and also dedicate jokes to your friends to cheer them UP!! DIAL 646 now and SPEAK COMEDY
++CMGL: 5,"REC READ","8888",,"04/05/23,12:22:16+00"
+Q: What s a birth control pill? A: The other thing a woman can put in her mouth to prevent pregnancy.
++CMGL: 6,"REC READ","646",,"04/05/23,12:22:32+00"
+Laugh Laugh till U drop! Now listen to NON STOP comedy on your mobile and also dedicate jokes to your friends to cheer them UP!! DIAL 646 now and SPEAK COMEDY
++CMGL: 7,"REC READ","8888",,"04/05/23,12:22:33+00"
+Why do farts smell? For the benefit of the deaf
++CMGL: 8,"REC READ","8888",,"04/05/23,12:22:59+00"
+How did the grubby man propose to his girlfriend? He left a ring round her bathtub!
++CMGL: 9,"REC READ","646",,"04/05/23,12:22:59+00"
+Laugh Laugh till U drop! Now listen to NON STOP comedy on your mobile and also dedicate jokes to your friends to cheer them UP!! DIAL 646 now and SPEAK COMEDY
++CMGL: 10,"REC READ","HOROSCOP",,"04/05/23,12:38:42+00"
+Dial 556 aur Jaaniye apni Kismat ka Haal. Aaj kya kehte hain aapke badalte Sitare, Kaun sa Number ya Rang hai aapke liye Lucky. Jaanne ke liye dial kare 556.
++CMGL: 11,"REC READ","555",,"04/05/25,15:11:25+00"
+Ç@o‰  @Top Tones
+R72127-Main hoo naa
+R01857-Time to disco
+R50078-Anjaana Anjaane
+R50080-Marhabaa
+R50022-Sarki chunariya
+R72128-Gori Gori
+R72131-Tum se milke
+R50
++CMGL: 12,"REC READ","555",,"04/05/25,15:11:25+00"
+Ç@o‰ ≠@011-Nachley
+R50065-chall hatt
+R01972-Sajna Ve Sajna
+For Nokia & Samsung send TONE <ref_no> to 555.For others,in <ref_no> send E instead of R,e.g. E72127
++CMGL: 14,"STO UNSENT","",,
+Giggiggggggggggg 
++CMGL: 16,"STO UNSENT","",,
+Uttttttttttt 
++CMGL: 17,"STO UNSENT","5555555",,
+Slodwtpga 
++CMGL: 18,"STO UNSENT","508888665555555",,
+Sprppppppp 
++CMGL: 19,"REC READ","+8243",,"03/12/12,12:21:50+00"
+OÇäÍ$Í$@ù?$$@@@@@@@
++CMGL: 20,"REC READ","+8243",,"03/12/12,12:21:50+00"
+OÇäÍ$Í$@ù?$ú0ätA
+@Hèú@ @@≠   @@<Ü@î8x8@@>Ü@Å8>8@@??@Ö8?8@@??@ç8ç8@@39$Ü8ù8@@3sÜÖ?Ö8@@9qÜÖ?Ö8@@1c·O8ù8@@8c<ç8ù8@@0a=Å8ù8@@8c?î8ù8@@0C?p8ù8@@@
+
+OK
+
+AT+CMGL="ALL"
+
++CMGL: 1,"REC READ","8888",,"04/05/23,11:53:22+00"
+A mobile is like a woman- talks non-stop, costs a fortune, disturbs when you are busy and when you need it urgently-there is no service!
++CMGL: 2,"REC READ","646",,"04/05/23,12:21:58+00"
+Laugh Laugh till U drop! Now listen to NON STOP comedy on your mobile and also dedicate jokes to your friends to cheer them UP!! DIAL 646 now and SPEAK COMEDY
++CMGL: 3,"REC READ","8888",,"04/05/23,12:21:59+00"
+Masculine pronouns: he, his and him, imagine the feminine, she, shis and shim 
+sms BANGOES for Mangoes 
++CMGL: 4,"REC READ","646",,"04/05/23,12:22:16+00"
+Laugh Laugh till U drop! Now listen to NON STOP comedy on your mobile and also dedicate jokes to your friends to cheer them UP!! DIAL 646 now and SPEAK COMEDY
++CMGL: 5,"REC READ","8888",,"04/05/23,12:22:16+00"
+Q: What s a birth control pill? A: The other thing a woman can put in her mouth to prevent pregnancy.
++CMGL: 6,"REC READ","646",,"04/05/23,12:22:32+00"
+Laugh Laugh till U drop! Now listen to NON STOP comedy on your mobile and also dedicate jokes to your friends to cheer them UP!! DIAL 646 now and SPEAK COMEDY
++CMGL: 7,"REC READ","8888",,"04/05/23,12:22:33+00"
+Why do farts smell? For the benefit of the deaf
++CMGL: 8,"REC READ","8888",,"04/05/23,12:22:59+00"
+How did the grubby man propose to his girlfriend? He left a ring round her bathtub!
++CMGL: 9,"REC READ","646",,"04/05/23,12:22:59+00"
+Laugh Laugh till U drop! Now listen to NON STOP comedy on your mobile and also dedicate jokes to your friends to cheer them UP!! DIAL 646 now and SPEAK COMEDY
++CMGL: 10,"REC READ","HOROSCOP",,"04/05/23,12:38:42+00"
+Dial 556 aur Jaaniye apni Kismat ka Haal. Aaj kya kehte hain aapke badalte Sitare, Kaun sa Number ya Rang hai aapke liye Lucky. Jaanne ke liye dial kare 556.
++CMGL: 11,"REC READ","555",,"04/05/25,15:11:25+00"
+Ç@o‰  @Top Tones
+R72127-Main hoo naa
+R01857-Time to disco
+R50078-Anjaana Anjaane
+R50080-Marhabaa
+R50022-Sarki chunariya
+R72128-Gori Gori
+R72131-Tum se milke
+R50
++CMGL: 12,"REC READ","555",,"04/05/25,15:11:25+00"
+Ç@o‰ ≠@011-Nachley
+R50065-chall hatt
+R01972-Sajna Ve Sajna
+For Nokia & Samsung send TONE <ref_no> to 555.For others,in <ref_no> send E instead of R,e.g. E72127
++CMGL: 13,"REC UNREAD","+919814792670",,"04/05/27,13:05:32+00"
+check message
++CMGL: 14,"STO UNSENT","",,
+Giggiggggggggggg 
++CMGL: 16,"STO UNSENT","",,
+Uttttttttttt 
++CMGL: 17,"STO UNSENT","5555555",,
+Slodwtpga 
++CMGL: 18,"STO UNSENT","508888665555555",,
+Sprppppppp 
++CMGL: 19,"REC READ","+8243",,"03/12/12,12:21:50+00"
+OÇäÍ$Í$@ù?$$@@@@@@@
++CMGL: 20,"REC READ","+8243",,"03/12/12,12:21:50+00"
+OÇäÍ$Í$@ù?$ú0ätA
+@Hèú@ @@≠   @@<Ü@î8x8@@>Ü@Å8>8@@??@Ö8?8@@??@ç8ç8@@39$Ü8ù8@@3sÜÖ?Ö8@@9qÜÖ?Ö8@@1c·O8ù8@@8c<ç8ù8@@0a=Å8ù8@@8c?î8ù8@@0C?p8ù8@@@
+
+OK
+
+AT+CMGL="ALL"
+
++CMGL: 1,"REC READ","8888",,"04/05/23,11:53:22+00"
+A mobile is like a woman- talks non-stop, costs a fortune, disturbs when you are busy and when you need it urgently-there is no service!
++CMGL: 2,"REC READ","646",,"04/05/23,12:21:58+00"
+Laugh Laugh till U drop! Now listen to NON STOP comedy on your mobile and also dedicate jokes to your friends to cheer them UP!! DIAL 646 now and SPEAK COMEDY
++CMGL: 3,"REC READ","8888",,"04/05/23,12:21:59+00"
+Masculine pronouns: he, his and him, imagine the feminine, she, shis and shim 
+sms BANGOES for Mangoes 
++CMGL: 4,"REC READ","646",,"04/05/23,12:22:16+00"
+Laugh Laugh till U drop! Now listen to NON STOP comedy on your mobile and also dedicate jokes to your friends to cheer them UP!! DIAL 646 now and SPEAK COMEDY
++CMGL: 5,"REC READ","8888",,"04/05/23,12:22:16+00"
+Q: What s a birth control pill? A: The other thing a woman can put in her mouth to prevent pregnancy.
++CMGL: 6,"REC READ","646",,"04/05/23,12:22:32+00"
+Laugh Laugh till U drop! Now listen to NON STOP comedy on your mobile and also dedicate jokes to your friends to cheer them UP!! DIAL 646 now and SPEAK COMEDY
++CMGL: 7,"REC READ","8888",,"04/05/23,12:22:33+00"
+Why do farts smell? For the benefit of the deaf
++CMGL: 8,"REC READ","8888",,"04/05/23,12:22:59+00"
+How did the grubby man propose to his girlfriend? He left a ring round her bathtub!
++CMGL: 9,"REC READ","646",,"04/05/23,12:22:59+00"
+Laugh Laugh till U drop! Now listen to NON STOP comedy on your mobile and also dedicate jokes to your friends to cheer them UP!! DIAL 646 now and SPEAK COMEDY
++CMGL: 10,"REC READ","HOROSCOP",,"04/05/23,12:38:42+00"
+Dial 556 aur Jaaniye apni Kismat ka Haal. Aaj kya kehte hain aapke badalte Sitare, Kaun sa Number ya Rang hai aapke liye Lucky. Jaanne ke liye dial kare 556.
++CMGL: 11,"REC READ","555",,"04/05/25,15:11:25+00"
+Ç@o‰  @Top Tones
+R72127-Main hoo naa
+R01857-Time to disco
+R50078-Anjaana Anjaane
+R50080-Marhabaa
+R50022-Sarki chunariya
+R72128-Gori Gori
+R72131-Tum se milke
+R50
++CMGL: 12,"REC READ","555",,"04/05/25,15:11:25+00"
+Ç@o‰ ≠@011-Nachley
+R50065-chall hatt
+R01972-Sajna Ve Sajna
+For Nokia & Samsung send TONE <ref_no> to 555.For others,in <ref_no> send E instead of R,e.g. E72127
++CMGL: 13,"REC READ","+919814792670",,"04/05/27,13:05:32+00"
+check message
++CMGL: 14,"STO UNSENT","",,
+Giggiggggggggggg 
++CMGL: 16,"STO UNSENT","",,
+Uttttttttttt 
++CMGL: 17,"STO UNSENT","5555555",,
+Slodwtpga 
++CMGL: 18,"STO UNSENT","508888665555555",,
+Sprppppppp 
++CMGL: 19,"REC READ","+8243",,"03/12/12,12:21:50+00"
+OÇäÍ$Í$@ù?$$@@@@@@@
++CMGL: 20,"REC READ","+8243",,"03/12/12,12:21:50+00"
+OÇäÍ$Í$@ù?$ú0ätA
+@Hèú@ @@≠   @@<Ü@î8x8@@>Ü@Å8>8@@??@Ö8?8@@??@ç8ç8@@39$Ü8ù8@@3sÜÖ?Ö8@@9qÜÖ?Ö8@@1c·O8ù8@@8c<ç8ù8@@0a=Å8ù8@@8c?î8ù8@@0C?p8ù8@@@
+
+OK
+
+
+OK
+AT+CMGL="ALL"
+
++CMGL: 4,"REC READ","555",,"04/06/01,15:21:47+00"
+Looking for Latest Ringtones, Pic. Msgs., Logos? Just logon to spiceindia.com, download with a click and get 37% OFF. Send SMS from website and get 25% OFF!
+
+OK
+
+49133360",,"04/06/06,12:10:33+00"
+Sardar is driving a jeep in jungle. Tourist:If lion comes very close 2 us then how can we escape? Sardar:Give right indicator & turn left!
++CMGL: 18,"REC READ","+919849133360",,"04/06/07,11:30:27+00"
+Ç@o@  @Lied without u is impossible-u r in my breath ,in my blood- cannot stay 4 a second without u- if u r nt there i"m dead   ..                              
++CMGL: 19,"REC READ","+919849133360",,"04/06/07,11:30:33+00"
+Ç@o@ ≠@                                                                                              hello  i"m talking about  *OXYGEN*!
++CMGL: 20,"REC READ","+919849130397",,"04/05/27,22:50:14+00"
+004700D600D6004400010020002000270020002B0020005F002F006C005F00200001004E00EC00470048005400010020002B002000270020003E00200022002C003C0020002B002000200020005F002F006C005F0020002B002000010053005700CB00CB0054002000010020002B00200020003E00200022002C003C002000010044005200CB00C4004D
++CMGL: 21,"REC READ","+919849706959",,"04/04/20,21:44:22+00"
+L35&1 R1B2F#1E1F#1E1F#1E1F#1G#1A+1G#1F#4B2F#1E1F#1E1F#1R1C#1D1E1D1B2R1B2F#1E1F#1E1F#1E1F#1G#1&&4=
+
+ *@FREE STAY*@
+
+
+
+  *FREE LUNCH*
+
+
+
+FREE BREAKFAST
+
+
+
+* FREE DINNER *
+
+
+
+FREE SECURITY
+
+
+TO AVAIL THIS PACKAGE PLEASE DIAL 100
+
+ERROR
++CMGL: 23,"REC READ","+919849130397",,"04/06/07,20:20:48+00"
+,..,
+((            .  l   __
+  )) :"':'":  I  I_ L.
+""   I  I  I (' ', ) I__
+
+
+is the secret
+
+
+
+to stay
+
+
+
+YOUNG
+
+
+
+& CUTE!
+
+
+
+SO KEEP SMILING        ALWAYS
++CMGL: 25,"REC READ","+919849706959",,"04/06/06,22:11:46+00"
+ .-""-.
+ ( "o",) @
+  ®® , ")
+     ®®/
+
+.-""-.,- @
+( "o",) ,®J
+    ®®/
+
+ERROR
++CMGL: 29,"REC READ","+919849133360",,"04/06/07,12:00:47+00"
+A
+B
+C
+D
+A-u"r atractive
+B-u"r d best
+C-u"r cute
+D-u"r dear 2 me
+E
+F
+G
+
+E-u"r xcelent
+F-u"r funny
+G-u"r gud lookin
+
+H
+I
+J
+
+H-he he he!
+I-i"m
+J-joking!
+
+OK
+
+AT+CMGL="ALL"
+
++CMGL: 4,"REC READ","555",,"04/06/01,15:21:47+00"
+Looking for Latest Ringtones, Pic. Msgs., Logos? Just logon to spiceindia.com, download with a click and get 37% OFF. Send SMS from website and get 25% OFF!
+
+OK
+
+AT+CMGL="ALL"
+
++CMGL: 4,"REC READ","555",,"04/06/01,15:21:47+00"
+Looking for Latest Ringtones, Pic. Msgs., Logos? Just logon to spiceindia.com, download with a click and get 37% OFF. Send SMS from website and get 25% OFF!
+
+OK
+
